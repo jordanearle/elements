@@ -12,7 +12,7 @@ a {
 }
 
 .maincont {
-  height: 100%;}
+  height: 100vh;}
 
 .textcont {
 	text-align: center;
@@ -202,7 +202,7 @@ a {
 	color: #A2A2A2;}
 
 #promo1:hover {
-	background-color: #E10B59;
+	background-color: #0099D6;
 	box-shadow: -2px 2px 25px 0px rgba(97,97,97,0.74);
 	color: #fff;}
 
@@ -217,7 +217,7 @@ a {
 	background-color: #161616;}
 
 #promo2:hover {
-	background-color: #9BC206;
+	background-color: #0099D6;
 	box-shadow: -2px 2px 25px 0px rgba(97,97,97,0.74);
 	color: #fff;}
 
@@ -232,7 +232,7 @@ a {
 	background-color: #161616;}
 
 #promo3:hover {
-	background-color: #00B6FF;
+	background-color: #0099D6;
 	box-shadow: -2px 2px 25px 0px rgba(97,97,97,0.74);
 	color: #fff;}
 
@@ -247,7 +247,7 @@ a {
 	background-color: #161616;}
 
 #promo4:hover {
-	background-color: #BB17FF;
+	background-color: #0099D6;
 	box-shadow: -2px 2px 25px 0px rgba(97,97,97,0.74);
 	color: #fff;}
 
@@ -262,7 +262,7 @@ a {
 	background-color: #161616;}
 
 #promo5:hover {
-	background-color: #FF8F18;
+	background-color: #0099D6;
 	box-shadow: -2px 2px 25px 0px rgba(97,97,97,0.74);
 	color: #fff;}
 
@@ -395,12 +395,6 @@ a {
 .animated {
 	-webkit-animation: slide 0.5s forwards;
 }
-
-.hrwhite {
-  border: 0;
-  height: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.3);}
 
 /* ---- particles.js container ---- */
 
