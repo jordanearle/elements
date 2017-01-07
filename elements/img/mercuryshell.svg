@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1608px" height="1660px" viewBox="0 0 1608 1660" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>Electron_shell_080_Mercury</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Electron_shell_080_Mercury" transform="translate(4.000000, 0.000000)">
+            <circle id="Oval" fill="#252525" opacity="0.309669384" cx="800" cy="830" r="200"></circle>
+            <g id="Group">
+                <circle id="shell_1" stroke="#77868B" stroke-width="8" cx="800" cy="830" r="300"></circle>
+                <g id="electron_0_shell_1" transform="translate(770.000000, 500.000000)" fill="#77868B">
+                    <circle id="electron" cx="30" cy="30" r="30"></circle>
+                </g>
+                <g id="electron_1_shell_1" transform="translate(800.000000, 1130.000000) rotate(180.000000) translate(-800.000000, -1130.000000) translate(770.000000, 1100.000000)" fill="#77868B">
+                    <g id="electron_0_shell_1">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <circle id="shell_2" stroke="#77868B" stroke-width="8" cx="800" cy="830" r="400"></circle>
+                <g id="electron_0_shell_2" transform="translate(770.000000, 400.000000)" fill="#77868B">
+                    <circle id="electron" cx="30" cy="30" r="30"></circle>
+                </g>
+                <g id="electron_1_shell_2" transform="translate(1082.842712, 547.157288) rotate(45.000000) translate(-1082.842712, -547.157288) translate(1052.842712, 517.157288)" fill="#77868B">
+                    <g id="electron_0_shell_2">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_2_shell_2" transform="translate(1200.000000, 830.000000) rotate(90.000000) translate(-1200.000000, -830.000000) translate(1170.000000, 800.000000)" fill="#77868B">
+                    <g id="electron_0_shell_2">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_3_shell_2" transform="translate(1082.842712, 1112.842712) rotate(135.000000) translate(-1082.842712, -1112.842712) translate(1052.842712, 1082.842712)" fill="#77868B">
+                    <g id="electron_0_shell_2">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_4_shell_2" transform="translate(800.000000, 1230.000000) rotate(180.000000) translate(-800.000000, -1230.000000) translate(770.000000, 1200.000000)" fill="#77868B">
+                    <g id="electron_0_shell_2">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_5_shell_2" transform="translate(517.157288, 1112.842712) rotate(225.000000) translate(-517.157288, -1112.842712) translate(487.157288, 1082.842712)" fill="#77868B">
+                    <g id="electron_0_shell_2">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_6_shell_2" transform="translate(400.000000, 830.000000) rotate(270.000000) translate(-400.000000, -830.000000) translate(370.000000, 800.000000)" fill="#77868B">
+                    <g id="electron_0_shell_2">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_7_shell_2" transform="translate(517.157288, 547.157288) rotate(-45.000000) translate(-517.157288, -547.157288) translate(487.157288, 517.157288)" fill="#77868B">
+                    <g id="electron_0_shell_2">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <circle id="shell_3" stroke="#77868B" stroke-width="8" cx="800" cy="830" r="500"></circle>
+                <g id="electron_0_shell_3" transform="translate(770.000000, 300.000000)" fill="#77868B">
+                    <circle id="electron" cx="30" cy="30" r="30"></circle>
+                </g>
+                <g id="electron_1_shell_3" transform="translate(971.010072, 360.153690) rotate(20.000000) translate(-971.010072, -360.153690) translate(941.010072, 330.153690)" fill="#77868B">
+                    <g id="electron_0_shell_3">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_2_shell_3" transform="translate(1121.393805, 446.977778) rotate(40.000000) translate(-1121.393805, -446.977778) translate(1091.393805, 416.977778)" fill="#77868B">
+                    <g id="electron_0_shell_3">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_3_shell_3" transform="translate(1233.012702, 580.000000) rotate(60.000000) translate(-1233.012702, -580.000000) translate(1203.012702, 550.000000)" fill="#77868B">
+                    <g id="electron_0_shell_3">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_4_shell_3" transform="translate(1292.403877, 743.175911) rotate(80.000000) translate(-1292.403877, -743.175911) translate(1262.403877, 713.175911)" fill="#77868B">
+                    <g id="electron_0_shell_3">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_5_shell_3" transform="translate(1292.403877, 916.824089) rotate(100.000000) translate(-1292.403877, -916.824089) translate(1262.403877, 886.824089)" fill="#77868B">
+                    <g id="electron_0_shell_3">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_6_shell_3" transform="translate(1233.012702, 1080.000000) rotate(120.000000) translate(-1233.012702, -1080.000000) translate(1203.012702, 1050.000000)" fill="#77868B">
+                    <g id="electron_0_shell_3">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_7_shell_3" transform="translate(1121.393805, 1213.022222) rotate(140.000000) translate(-1121.393805, -1213.022222) translate(1091.393805, 1183.022222)" fill="#77868B">
+                    <g id="electron_0_shell_3">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_8_shell_3" transform="translate(971.010072, 1299.846310) rotate(160.000000) translate(-971.010072, -1299.846310) translate(941.010072, 1269.846310)" fill="#77868B">
+                    <g id="electron_0_shell_3">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_9_shell_3" transform="translate(800.000000, 1330.000000) rotate(180.000000) translate(-800.000000, -1330.000000) translate(770.000000, 1300.000000)" fill="#77868B">
+                    <g id="electron_0_shell_3">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_10_shell_3" transform="translate(628.989928, 1299.846310) rotate(200.000000) translate(-628.989928, -1299.846310) translate(598.989928, 1269.846310)" fill="#77868B">
+                    <g id="electron_0_shell_3">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_11_shell_3" transform="translate(478.606195, 1213.022222) rotate(220.000000) translate(-478.606195, -1213.022222) translate(448.606195, 1183.022222)" fill="#77868B">
+                    <g id="electron_0_shell_3">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_12_shell_3" transform="translate(366.987298, 1080.000000) rotate(240.000000) translate(-366.987298, -1080.000000) translate(336.987298, 1050.000000)" fill="#77868B">
+                    <g id="electron_0_shell_3">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_13_shell_3" transform="translate(307.596123, 916.824089) rotate(260.000000) translate(-307.596123, -916.824089) translate(277.596123, 886.824089)" fill="#77868B">
+                    <g id="electron_0_shell_3">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_14_shell_3" transform="translate(307.596123, 743.175911) rotate(-80.000000) translate(-307.596123, -743.175911) translate(277.596123, 713.175911)" fill="#77868B">
+                    <g id="electron_0_shell_3">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_15_shell_3" transform="translate(366.987298, 580.000000) rotate(-60.000000) translate(-366.987298, -580.000000) translate(336.987298, 550.000000)" fill="#77868B">
+                    <g id="electron_0_shell_3">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_16_shell_3" transform="translate(478.606195, 446.977778) rotate(-40.000000) translate(-478.606195, -446.977778) translate(448.606195, 416.977778)" fill="#77868B">
+                    <g id="electron_0_shell_3">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_17_shell_3" transform="translate(628.989928, 360.153690) rotate(-20.000000) translate(-628.989928, -360.153690) translate(598.989928, 330.153690)" fill="#77868B">
+                    <g id="electron_0_shell_3">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <circle id="shell_4" stroke="#77868B" stroke-width="8" cx="800" cy="830" r="600"></circle>
+                <g id="electron_0_shell_4" transform="translate(770.000000, 200.000000)" fill="#77868B">
+                    <circle id="electron" cx="30" cy="30" r="30"></circle>
+                </g>
+                <g id="electron_1_shell_4" transform="translate(917.054193, 241.528832) rotate(11.250000) translate(-917.054193, -241.528832) translate(887.054193, 211.528832)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_2_shell_4" transform="translate(1029.610059, 275.672280) rotate(22.500000) translate(-1029.610059, -275.672280) translate(999.610059, 245.672280)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_3_shell_4" transform="translate(1133.342140, 331.118233) rotate(33.750000) translate(-1133.342140, -331.118233) translate(1103.342140, 301.118233)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_4_shell_4" transform="translate(1224.264069, 405.735931) rotate(45.000000) translate(-1224.264069, -405.735931) translate(1194.264069, 375.735931)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_5_shell_4" transform="translate(1298.881767, 496.657860) rotate(56.250000) translate(-1298.881767, -496.657860) translate(1268.881767, 466.657860)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_6_shell_4" transform="translate(1354.327720, 600.389941) rotate(67.500000) translate(-1354.327720, -600.389941) translate(1324.327720, 570.389941)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_7_shell_4" transform="translate(1388.471168, 712.945807) rotate(78.750000) translate(-1388.471168, -712.945807) translate(1358.471168, 682.945807)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_8_shell_4" transform="translate(1400.000000, 830.000000) rotate(90.000000) translate(-1400.000000, -830.000000) translate(1370.000000, 800.000000)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_9_shell_4" transform="translate(1388.471168, 947.054193) rotate(101.250000) translate(-1388.471168, -947.054193) translate(1358.471168, 917.054193)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_10_shell_4" transform="translate(1354.327720, 1059.610059) rotate(112.500000) translate(-1354.327720, -1059.610059) translate(1324.327720, 1029.610059)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_11_shell_4" transform="translate(1298.881767, 1163.342140) rotate(123.750000) translate(-1298.881767, -1163.342140) translate(1268.881767, 1133.342140)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_12_shell_4" transform="translate(1224.264069, 1254.264069) rotate(135.000000) translate(-1224.264069, -1254.264069) translate(1194.264069, 1224.264069)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_13_shell_4" transform="translate(1133.342140, 1328.881767) rotate(146.250000) translate(-1133.342140, -1328.881767) translate(1103.342140, 1298.881767)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_14_shell_4" transform="translate(1029.610059, 1384.327720) rotate(157.500000) translate(-1029.610059, -1384.327720) translate(999.610059, 1354.327720)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_15_shell_4" transform="translate(917.054193, 1418.471168) rotate(168.750000) translate(-917.054193, -1418.471168) translate(887.054193, 1388.471168)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_16_shell_4" transform="translate(800.000000, 1430.000000) rotate(180.000000) translate(-800.000000, -1430.000000) translate(770.000000, 1400.000000)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_17_shell_4" transform="translate(682.945807, 1418.471168) rotate(191.250000) translate(-682.945807, -1418.471168) translate(652.945807, 1388.471168)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_18_shell_4" transform="translate(570.389941, 1384.327720) rotate(202.500000) translate(-570.389941, -1384.327720) translate(540.389941, 1354.327720)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_19_shell_4" transform="translate(466.657860, 1328.881767) rotate(213.750000) translate(-466.657860, -1328.881767) translate(436.657860, 1298.881767)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_20_shell_4" transform="translate(375.735931, 1254.264069) rotate(225.000000) translate(-375.735931, -1254.264069) translate(345.735931, 1224.264069)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_21_shell_4" transform="translate(301.118233, 1163.342140) rotate(236.250000) translate(-301.118233, -1163.342140) translate(271.118233, 1133.342140)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_22_shell_4" transform="translate(245.672280, 1059.610059) rotate(247.500000) translate(-245.672280, -1059.610059) translate(215.672280, 1029.610059)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_23_shell_4" transform="translate(211.528832, 947.054193) rotate(258.750000) translate(-211.528832, -947.054193) translate(181.528832, 917.054193)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_24_shell_4" transform="translate(200.000000, 830.000000) rotate(270.000000) translate(-200.000000, -830.000000) translate(170.000000, 800.000000)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_25_shell_4" transform="translate(211.528832, 712.945807) rotate(-78.750000) translate(-211.528832, -712.945807) translate(181.528832, 682.945807)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_26_shell_4" transform="translate(245.672280, 600.389941) rotate(-67.500000) translate(-245.672280, -600.389941) translate(215.672280, 570.389941)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_27_shell_4" transform="translate(301.118233, 496.657860) rotate(-56.250000) translate(-301.118233, -496.657860) translate(271.118233, 466.657860)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_28_shell_4" transform="translate(375.735931, 405.735931) rotate(-45.000000) translate(-375.735931, -405.735931) translate(345.735931, 375.735931)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_29_shell_4" transform="translate(466.657860, 331.118233) rotate(-33.750000) translate(-466.657860, -331.118233) translate(436.657860, 301.118233)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_30_shell_4" transform="translate(570.389941, 275.672280) rotate(-22.500000) translate(-570.389941, -275.672280) translate(540.389941, 245.672280)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_31_shell_4" transform="translate(682.945807, 241.528832) rotate(-11.250000) translate(-682.945807, -241.528832) translate(652.945807, 211.528832)" fill="#77868B">
+                    <g id="electron_0_shell_4">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <circle id="shell_5" stroke="#77868B" stroke-width="8" cx="800" cy="830" r="700"></circle>
+                <g id="electron_0_shell_5" transform="translate(770.000000, 100.000000)" fill="#77868B">
+                    <circle id="electron" cx="30" cy="30" r="30"></circle>
+                </g>
+                <g id="electron_1_shell_5" transform="translate(1039.414100, 172.215165) rotate(20.000000) translate(-1039.414100, -172.215165) translate(1009.414100, 142.215165)" fill="#77868B">
+                    <g id="electron_0_shell_5">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_2_shell_5" transform="translate(1249.951327, 293.768890) rotate(40.000000) translate(-1249.951327, -293.768890) translate(1219.951327, 263.768890)" fill="#77868B">
+                    <g id="electron_0_shell_5">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_3_shell_5" transform="translate(1406.217783, 480.000000) rotate(60.000000) translate(-1406.217783, -480.000000) translate(1376.217783, 450.000000)" fill="#77868B">
+                    <g id="electron_0_shell_5">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_4_shell_5" transform="translate(1489.365427, 708.446276) rotate(80.000000) translate(-1489.365427, -708.446276) translate(1459.365427, 678.446276)" fill="#77868B">
+                    <g id="electron_0_shell_5">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_5_shell_5" transform="translate(1489.365427, 951.553724) rotate(100.000000) translate(-1489.365427, -951.553724) translate(1459.365427, 921.553724)" fill="#77868B">
+                    <g id="electron_0_shell_5">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_6_shell_5" transform="translate(1406.217783, 1180.000000) rotate(120.000000) translate(-1406.217783, -1180.000000) translate(1376.217783, 1150.000000)" fill="#77868B">
+                    <g id="electron_0_shell_5">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_7_shell_5" transform="translate(1249.951327, 1366.231110) rotate(140.000000) translate(-1249.951327, -1366.231110) translate(1219.951327, 1336.231110)" fill="#77868B">
+                    <g id="electron_0_shell_5">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_8_shell_5" transform="translate(1039.414100, 1487.784835) rotate(160.000000) translate(-1039.414100, -1487.784835) translate(1009.414100, 1457.784835)" fill="#77868B">
+                    <g id="electron_0_shell_5">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_9_shell_5" transform="translate(800.000000, 1530.000000) rotate(180.000000) translate(-800.000000, -1530.000000) translate(770.000000, 1500.000000)" fill="#77868B">
+                    <g id="electron_0_shell_5">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_10_shell_5" transform="translate(560.585900, 1487.784835) rotate(200.000000) translate(-560.585900, -1487.784835) translate(530.585900, 1457.784835)" fill="#77868B">
+                    <g id="electron_0_shell_5">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_11_shell_5" transform="translate(350.048673, 1366.231110) rotate(220.000000) translate(-350.048673, -1366.231110) translate(320.048673, 1336.231110)" fill="#77868B">
+                    <g id="electron_0_shell_5">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_12_shell_5" transform="translate(193.782217, 1180.000000) rotate(240.000000) translate(-193.782217, -1180.000000) translate(163.782217, 1150.000000)" fill="#77868B">
+                    <g id="electron_0_shell_5">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_13_shell_5" transform="translate(110.634573, 951.553724) rotate(260.000000) translate(-110.634573, -951.553724) translate(80.634573, 921.553724)" fill="#77868B">
+                    <g id="electron_0_shell_5">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_14_shell_5" transform="translate(110.634573, 708.446276) rotate(-80.000000) translate(-110.634573, -708.446276) translate(80.634573, 678.446276)" fill="#77868B">
+                    <g id="electron_0_shell_5">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_15_shell_5" transform="translate(193.782217, 480.000000) rotate(-60.000000) translate(-193.782217, -480.000000) translate(163.782217, 450.000000)" fill="#77868B">
+                    <g id="electron_0_shell_5">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_16_shell_5" transform="translate(350.048673, 293.768890) rotate(-40.000000) translate(-350.048673, -293.768890) translate(320.048673, 263.768890)" fill="#77868B">
+                    <g id="electron_0_shell_5">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <g id="electron_17_shell_5" transform="translate(560.585900, 172.215165) rotate(-20.000000) translate(-560.585900, -172.215165) translate(530.585900, 142.215165)" fill="#77868B">
+                    <g id="electron_0_shell_5">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+                <circle id="shell_6" stroke="#77868B" stroke-width="8" cx="800" cy="830" r="800"></circle>
+                <g id="electron_0_shell_6" transform="translate(770.000000, 0.000000)" fill="#77868B">
+                    <circle id="electron" cx="30" cy="30" r="30"></circle>
+                </g>
+                <g id="electron_1_shell_6" transform="translate(800.000000, 1630.000000) rotate(180.000000) translate(-800.000000, -1630.000000) translate(770.000000, 1600.000000)" fill="#77868B">
+                    <g id="electron_0_shell_6">
+                        <circle id="electron" cx="30" cy="30" r="30"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

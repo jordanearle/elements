@@ -1,0 +1,159 @@
+/** LAYOUT **/
+
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: #1f2021;
+  max-width: 100vw;
+  overflow-x: hidden;
+  min-width: 100vw;}
+
+.main {
+  height: 800px;
+  width: 100%;
+  background-color: #1f2021;}
+
+.column1 {
+  height: 110%;
+  width: 55%;
+  float: left;
+  margin-right: 20px;}
+
+.column2 {
+  height: 110%;
+  width: 43%;
+  float: right;
+  background-color: #19191a;}
+
+.herotitlecont {
+  height: auto;
+  width: 100%;
+  margin-top: -7em;
+  margin-bottom: -6em;
+}
+
+div.chatbubble {
+    background-color: #00B6FF;
+    border-radius: 25px;
+    width: 60%;
+    height: auto;
+    padding: 5px 25px 5px 25px;
+    margin-bottom: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    animation-name: hide, slideIn;
+    animation-duration: 4s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: 1;
+    transition: opacity .8s ease-in-out;
+    opacity: 1;
+    box-shadow: -2px 2px 25px 0px rgba(0,0,0,0.18);}
+
+div.chatbubble.first {
+  animation-delay: 0s, 1s;}
+
+div.chatbubble.second {
+  animation-delay: 0s, 2s;}
+
+div.chatbubble.third {
+   animation-delay: 0s, 3s;}
+
+div.chatbubble.forth {
+    animation-delay: 0s, 4s;}
+
+.mercuryimgcont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3.5em;
+  animation: rotate 15s linear infinite;
+}
+
+.imgcaption {
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 1.1em;
+  text-align: center;
+  margin-top: 1em;
+  opacity: 0.6;}
+
+.elementinfo {
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 1.2em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+  width: 80%;
+}
+
+@keyframes hide
+  {from { opacity: 0; } to { opacity: 0 }}
+
+@keyframes slideIn
+          {
+            0% { opacity: 0; top: -100px; }
+            10% { opacity: 1; top: -100px; }
+            100% { opacity: 1; top:  200px; }
+          }
+
+@keyframes rotate {
+    from{
+        -webkit-transform: rotate(0deg);
+    }
+    to{
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+/** TYPOGRAPHY **/
+
+.herotitle {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  font-size: 20vh;
+  text-align: center;
+  color: #009cff;
+  letter-spacing: -0.09em;}
+
+.chattext {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 1.1em;
+  text-align: left;
+  color: #fff;}
+
+ th {
+  font-weight: 300;
+  background-color: #232425;
+  padding-right: 35px;
+  padding-left: 20px;
+  align-items: center;}
+
+ tr {
+   height: 50px;
+   align-items: center;
+  background-color: #1e1f20;
+  text-align: center;}
+
+
+  /** IMAGES **/
+
+.back {
+  margin-top: 1em;
+  margin-left: 1em;
+  margin-bottom: -2em;
+}
+
+.back:hover {
+  margin-top: 1em;
+  margin-left: 1em;
+  margin-bottom: -2em;
+  opacity: 0.4;
+  transition: opacity .25s ease-in-out;
+}
+
+.mercuryimg {
+  height: 25vh;
+}
